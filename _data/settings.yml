@@ -14,7 +14,6 @@ menu_settings:
     - title: "Home"
       url: "https://tokenomic.org"
     - title: "About"
-      url: "https://tokenomic.org/about"
     submenu:
       - url: "/contact/"
         title: "Contact"
@@ -23,7 +22,6 @@ menu_settings:
     - title: "Authors"
       url: "/authors/"
     - title: "Learn"
-      url: "/"
     submenu:
       - url: "https://tokenomic.org/news"
         title: "News"
