@@ -14,7 +14,7 @@ menu_settings:
     - title: "Home"
       url: "https://tokenomic.org"
     - title: "About"
-      url: "https://tokenomic.org/about/"
+      url: "https://tokenomic.org/about"
     - title: "Services"
       url: "https://tokenomic.org/services"
     - title: "Training"
@@ -25,11 +25,11 @@ menu_settings:
       submenu:
       - url: "https://tokenomic.org/news"
         title: "News"
-      - url: "/authors/"
+      - url: "/authors"
         title: "Authors"
-      - url: "/research/"
+      - url: "/research"
         title: "Research"
-      - url: "/glossary/"
+      - url: "/glossary"
         title: "Glossary"
 
 # Call to action button
