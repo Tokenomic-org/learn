@@ -12,23 +12,25 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 menu_settings:
   menu_items:
     - title: "Home"
-      url: "/"
+      url: "https://tokenomic.org"
+    - title: "About"
+      url: "https://tokenomic.org/about"
+    submenu:
+      - url: "/contact/"
+        title: "Contact"
     - title: "Latest"
       url: "/latest/"
     - title: "Authors"
       url: "/authors/"
-    - title: "Videos"
-      url: "/videos/"
-    - title: "Pages"
-      submenu:
-      - url: "/about/"
-        title: "About"
-      - url: "/elements/"
-        title: "Elements"
-      - url: "/contact/"
-        title: "Contact"
-      - url: "/featured/"
-        title: "Featured"
+    - title: "Learn"
+      url: "/"
+    submenu:
+      - url: "https://tokenomic.org/news"
+        title: "News"
+      - url: "/research/"
+        title: "Research"
+      - url: "/glossary/"
+        title: "Glossary"
 
 # Call to action button
 cta_button:
