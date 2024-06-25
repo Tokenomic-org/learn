@@ -27,7 +27,7 @@ menu_settings:
         title: "News"
       - url: "/authors"
         title: "Authors"
-      - url: "/research"
+      - url: "https://learn.tokenomic.org/tags/?tag=research"
         title: "Research"
       - url: "/glossary"
         title: "Glossary"
