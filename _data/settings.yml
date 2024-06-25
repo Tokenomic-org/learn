@@ -12,28 +12,28 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 menu_settings:
   menu_items:
     - title: "Home"
-      url: "https://tokenomic.org"
-    - title: "About"
-    submenu:
-      - url: "/contact/"
-        title: "Contact"
+      url: "/"
     - title: "Latest"
       url: "/latest/"
     - title: "Authors"
       url: "/authors/"
-    - title: "Learn"
-    submenu:
-      - url: "https://tokenomic.org/news"
-        title: "News"
-      - url: "/research/"
-        title: "Research"
-      - url: "/glossary/"
-        title: "Glossary"
+    - title: "Videos"
+      url: "/videos/"
+    - title: "Pages"
+      submenu:
+      - url: "/about/"
+        title: "About"
+      - url: "/elements/"
+        title: "Elements"
+      - url: "/contact/"
+        title: "Contact"
+      - url: "/featured/"
+        title: "Featured"
 
 # Call to action button
 cta_button:
   enable: true
-  cta_button_link: 'https://tokenomic.org/contact/'
+  cta_button_link: '/contact/'
   cta_button_text: Get in touch
 
 
@@ -41,8 +41,9 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_title: 
-  hero_description:
+  hero_title: One Stop Daily News, Article, Inspiration, and Tips.
+  hero_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+
 
 #-------------------------------
 # Tags Section Settings
