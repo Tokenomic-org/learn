@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best Pilates Workout Videos You Can Find on YouTube
-description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. 
+description: Blockchain is a transformative technology impacting various sectors from finance to supply chain management. This article explores the essential building blocks of creating a blockchain, including understanding its structure, consensus mechanisms, and key components like transactions, blocks, and nodes. Dive into the fundamentals of blockchain development with C++ examples and gain insights into security measures and smart contracts.
 date: 2023-07-19 15:01:35 +0300
 author: admin
 image: '/images/fundamentals-building-blockchain.png'
