@@ -2,10 +2,10 @@
 layout: post
 title: The Best Pilates Workout Videos You Can Find on YouTube
 description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. 
-date: 2022-05-07 15:01:35 +0300
+date: 2023-07-19 15:01:35 +0300
 author: admin
-image: '/images/33.jpg'
-tags: [sport]
+image: '/images/fundamentals-building-blockchain.png'
+tags: [research]
 ---
 
 # Building a Blockchain: A Comprehensive Guide
