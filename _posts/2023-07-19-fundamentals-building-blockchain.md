@@ -8,8 +8,6 @@ image: '/images/fundamentals-building-blockchain.png'
 tags: [research]
 ---
 
-# Building a Blockchain: A Comprehensive Guide
-
 The blockchain is a transformative technology that has had a profound impact on various sectors from finance to supply chain management. While the journey to master blockchain development is a complex one, understanding its fundamentals is the first step towards proficiency. This article delves into these essential building blocks of creating a blockchain.
 
 ## 1. Understanding Blockchain Basics
