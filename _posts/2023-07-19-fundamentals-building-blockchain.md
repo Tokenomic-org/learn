@@ -5,7 +5,7 @@ description: Blockchain is a transformative technology impacting various sectors
 date: 2023-07-19 15:01:35 +0300
 author: admin
 image: '/images/fundamentals-building-blockchain.png'
-tags: [research]
+tags: [technical]
 ---
 
 The blockchain is a transformative technology that has had a profound impact on various sectors from finance to supply chain management. While the journey to master blockchain development is a complex one, understanding its fundamentals is the first step towards proficiency. This article delves into these essential building blocks of creating a blockchain.

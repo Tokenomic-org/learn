@@ -5,7 +5,7 @@ description: Discover the importance of zero-knowledge proofs (ZKPs) in cryptogr
 date: 2023-03-11 15:01:35 +0300
 author: admin
 image: '/images/zero-knowledge-proofs.png'
-tags: [research]
+tags: [technical]
 ---
 
 As our world becomes increasingly digital, the ability to securely share and verify information is crucial. Cryptography has made impressive strides in this area, and zero-knowledge proofs (ZKPs) are one such innovation that holds great promise. They provide a way for one party (the prover) to demonstrate to another party (the verifier) that they possess certain knowledge or a specific piece of information without revealing any additional details.

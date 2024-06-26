@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Decentralized Data Storage, An Overview of Techniques and Algorithms
-description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. 
+description: Decentralized data storage allows data storage and retrieval without a central authority, offering improved reliability, security, and scalability over centralized systems. It utilizes techniques like replication, erasure coding, distributed hash tables, and consensus protocols to manage data efficiently and ensure integrity and availability. This article explores these methods and the trade-offs in selecting the best approach for decentralized storage.
 date: 2023-01-07 15:01:35 +0300
 author: admin
 image: '/images/decentralized-data-storage.png'
-tags: [research]
+tags: [technical]
 ---
 
 Decentralized data storage is a distributed computing paradigm that allows users to store and retrieve data in a decentralized manner, without the need for a central authority or coordinator. This approach has the potential to offer a number of benefits compared to traditional, centralized storage systems, such as improved reliability, security, and scalability.
 
 In order to provide these benefits, decentralized storage systems rely on a variety of techniques and algorithms to store, manage, and retrieve data. In this article, we will provide an overview of these techniques and algorithms, including replication, erasure coding, distributed hash tables, and consensus protocols. We will also discuss the trade-offs and considerations involved in choosing the right approach for decentralized storage.
 
-After publishing an article in August 2022 on [How Decentralized Storage is Transforming Data Management](#), I decided a more technical article was also necessary.
+After publishing an article in August 2022 on How Decentralized Storage is Transforming Data Management, I decided a more technical article was also necessary.
 
 By understanding the technicalities of decentralized storage, we can gain a deeper appreciation for the design and operation of these systems, and how they can be used to solve real-world problems.
 
@@ -178,6 +178,7 @@ BFT protocols are more complex and resource-intensive than other types of consen
 ## Fault Tolerance Algorithms
 
 Fault tolerance algorithms are techniques designed to ensure that a system continues to operate properly even in the presence of failures. These algorithms are essential in distributed systems, where failure of one or more components is expected.
+
 
 ### Checkpointing
 
