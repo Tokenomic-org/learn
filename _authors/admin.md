@@ -1,11 +1,12 @@
 ---
 username: admin
-name: Bruno Mason
+name: Guillaume Lauzier
 image: '/images/100.jpg'
 location:
-website:
-facebook: https://www.facebook.com
-twitter: https://twitter.com
-instagram: https://www.instagram.com
+website: https://guillaumelauzier.com
+facebook: https://www.facebook.com/guilauzier
+twitter: https://twitter.com/guilauzier
+instagram: https://www.instagram.com/guillaumelauzier
+linkedin: https://www.linkedin.com/in/guillaumelauzier/
 ---
-I'm a seasoned veteran of editorial and content management with the skills to make a difference.
+Founder of Tokenomic.org and GeneratedArt, specializes in technical implementation, financial analysis, and digital assets. With a background in DeFi and generative techniques, he advances finance through innovative tech. He ran a crypto mining facility for over 3 years, engineered machines for various consensus algorithms, and managed all nodes.
