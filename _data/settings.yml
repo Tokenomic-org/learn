@@ -76,12 +76,9 @@ footer_description: Features productivity, tips, inspiration and strategies for 
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "github", link: "https://github.com"}
-- {icon: "youtube", link: "https://youtube.com"}
+- {icon: "twitter", link: "https://twitter.com/defitokenomic"}
+- {icon: "facebook", link: "https://facebook.com/defitokenomic"}
+- {icon: "linkedin", link: "https://www.linkedin.com/company/defitokenomic"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
