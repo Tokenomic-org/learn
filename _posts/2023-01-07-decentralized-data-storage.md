@@ -330,6 +330,7 @@ There are several different types of lock-based algorithms, including:
 2. Reader-writer locks: Reader-writer locks allow multiple readers to access a shared resource concurrently, but prevent writers from accessing the resource until all readers have released the lock. This can improve performance for read-heavy workloads.
 3. Semaphores: Semaphores are a type of lock that allows multiple threads or processes to acquire the lock concurrently, up to a maximum limit. This can be used to limit the number of threads or processes that can access a shared resource at the same time.
 
+
 ### Timestamp-based algorithms
 
 ![Timestamp-based algorithms](/images/22-6.png)
@@ -436,6 +437,7 @@ There are several different types of optimization algorithms, including:
 ## Communication protocols
 Communication protocols are formal sets of rules and conventions that govern the exchange of data between devices over a network. These protocols ensure that data is transmitted accurately, reliably, and securely.
 
+
 ### Message passing protocols
 
 ![Optimization algorithms](/images/Full-three-rounds-of-message-passing-protocol-in-Z-channel.png)
@@ -480,6 +482,7 @@ There are many different types of publish-subscribe protocols, including:
 
 Network routing algorithms are essential software programs used to determine the most efficient path for data packets to travel from a source to a destination within a network. These algorithms help in managing and directing data traffic efficiently, ensuring optimal network performance and reliability.
 
+
 ### Shortest path algorithms
 
 ![Shortest path algorithms](/images/Shortest_path_with_direct_weights.png)
@@ -492,6 +495,7 @@ There are several different types of shortest path algorithms, including:
 2. A* search algorithm: The A* search algorithm is an algorithm for finding the shortest path between two nodes in a graph. It works by using an estimated cost function to guide the search and prioritize nodes that are likely to be on the shortest path.
 3. Bellman-Ford algorithm: The Bellman-Ford algorithm is an algorithm for finding the shortest path between two nodes in a graph with negative edge weights. It works by iteratively relaxing the distances to the destination node and updating the shortest path to each node along the way.
 4. Floyd-Warshall algorithm: The Floyd-Warshall algorithm is an algorithm for finding the shortest path between all pairs of nodes in a graph. It works by iteratively relaxing the distances between each pair of nodes and updating the shortest path between them.
+
 
 ### Minimum hop algorithms
 
