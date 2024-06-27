@@ -9,4 +9,4 @@ twitter: https://twitter.com/guilauzier
 instagram: https://www.instagram.com/guillaumelauzier
 linkedin: https://www.linkedin.com/in/guillaumelauzier/
 ---
-Founder of Tokenomic.org and GeneratedArt, specializes in technical implementation, financial analysis, and digital assets. With a background in DeFi and generative techniques, he advances finance through innovative tech. He ran a crypto mining facility for over 3 years, engineered machines for various consensus algorithms, and managed all nodes.
+Founder of Tokenomic, Axal and GeneratedArt, specializing in technical implementation, financial analysis, and digital assets. Expert in DeFi and generative techniques, advancing finance with innovative tech. Former crypto mining facility operator.
