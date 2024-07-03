@@ -79,6 +79,7 @@ social:
 - {icon: "twitter", link: "https://twitter.com/defitokenomic"}
 - {icon: "facebook", link: "https://facebook.com/defitokenomic"}
 - {icon: "linkedin", link: "https://www.linkedin.com/company/defitokenomic"}
+- {icon: "rss", link: "https://learn.tokenomic.org/feed"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
