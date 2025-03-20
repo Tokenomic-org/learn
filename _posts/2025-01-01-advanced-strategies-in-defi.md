@@ -4,7 +4,7 @@ title: Advanced Options Strategies in DeFi
 description: 
 date: 2025-01-01 15:01:35 +0300
 author: admin
-image: '/images/'
+image: '/images/defi.png'
 tags: [strategy]
 ---
 

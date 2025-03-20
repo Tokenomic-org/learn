@@ -4,7 +4,7 @@ title: Understanding Iron Condor and Butterfly Spread
 description: 
 date: 2025-01-11 15:01:35 +0300
 author: admin
-image: '/images/'
+image: '/images/Butterfly.png'
 tags: [strategy]
 ---
 
@@ -89,8 +89,6 @@ If BTC closes at $60,000 at expiration, the trader scores maximum profit. If BTC
 - Targets a specific price with low risk.
 - Cost-efficient due to offsetting premiums.
 - Blockchain ensures trustless execution.
-
----
 
 ## Benefits of Options in DeFi
 
