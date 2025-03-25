@@ -2,7 +2,7 @@
 layout: post
 title: Arbitrage in DeFI - A Practical Guide
 description: 
-date: 2025-01-01 15:01:35 +0300
+date: 2024-08-12 15:01:35 +0300
 author: admin
 image: '/images/arbitrage.png'
 tags: [strategy]
