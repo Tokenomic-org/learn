@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arbitrage in DeFI - A Practical Guide
+title: Arbitrage - A Practical Guide
 description: 
 date: 2024-08-12 15:01:35 +0300
 author: admin
