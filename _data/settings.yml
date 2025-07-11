@@ -81,6 +81,9 @@ social:
 - {icon: "linkedin", link: "https://www.linkedin.com/company/tknmic"}
 - {icon: "instagram", link: "https://www.instagram.com/tknmic"}
 - {icon: "youtube", link: "https://www.youtube.com/@tknmic"}
+- {icon: "telegram", link: "https://t.me/tknmic"}
+- {icon: "tiktok", link: "https://www.tiktok.com/@tknmic"}
+- {icon: "medium", link: "https://medium.com/@tknmic"}
 - {icon: "rss", link: "https://learn.tokenomic.org/feed"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
