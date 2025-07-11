@@ -76,9 +76,11 @@ footer_description: Enhance your crypto journey with expert insights and reliabl
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com/defitokenomic"}
-- {icon: "facebook", link: "https://facebook.com/defitokenomic"}
-- {icon: "linkedin", link: "https://www.linkedin.com/company/defitokenomic"}
+- {icon: "twitter", link: "https://twitter.com/tknmic"}
+- {icon: "facebook", link: "https://facebook.com/tknmic"}
+- {icon: "linkedin", link: "https://www.linkedin.com/company/tknmic"}
+- {icon: "instagram", link: "https://www.instagram.com/tknmic"}
+- {icon: "youtube", link: "https://www.youtube.com/@tknmic"}
 - {icon: "rss", link: "https://learn.tokenomic.org/feed"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
